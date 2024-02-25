@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "65daf5694bc7a8c174f8d498"
+  },
+  "title": "Name of the wind",
+  "author": "Abc",
+  "pages": 500,
+  "genres": [
+    "fantasy",
+    "magical"
+  ],
+  "rating": 9
+},
+{
+  "_id": {
+    "$oid": "65dafb7179d79295317b68f0"
+  },
+  "title": "A",
+  "author": "baby",
+  "pages": 500,
+  "rating": 8,
+  "genres": [
+    "fantasy",
+    "magic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65dafda179d79295317b68f1"
+  },
+  "title": "B",
+  "author": "Chik",
+  "pages": 440,
+  "rating": 6,
+  "genres": [
+    "fantasy",
+    "mic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65db02fb79d79295317b68f2"
+  },
+  "title": "C",
+  "author": "Chik",
+  "pages": 400,
+  "rating": 9,
+  "genres": [
+    "fantay",
+    "mic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65db2b5f79d79295317b68f3"
+  },
+  "title": "The way of Siya Ram",
+  "author": "shree",
+  "rating": 9,
+  "pages": 400,
+  "genres": [
+    "fantasy"
+  ],
+  "reviews": [
+    {
+      "name": "Bharat",
+      "body": "Great book!!"
+    },
+    {
+      "name": "mario ",
+      "body": "so so"
+    }
+  ]
+}]
